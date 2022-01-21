@@ -16,9 +16,6 @@ tags: Git
   [TOC]
 
 </details>
-# [Git](https://www.youtube.com/watch?v=OVLR9qRc9ak&list=PLK2w-tGRdrj5jO9Y1k2iAPCw7iSo6YVdx&index=2&ab_channel=%E4%BB%A3%E7%A0%81%E7%9C%9F%E9%A6%99)
-> 分佈式管理系統
-
 ## Git Global Setting
 
 [learnGitBranching](https://learngitbranching.js.org/?NODEMO=&locale=zh_TW)

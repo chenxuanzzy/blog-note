@@ -6,8 +6,7 @@ tags: FrontEnd, JavaScript
 
 <!-- cover image -->
 <p style="text-align: center">
-    <img src="https://i.imgur.com/gDexI3a.png
-" height=200/>
+    <img src="https://i.imgur.com/gDexI3a.png" height=200/>
 </p>
 
 <!-- table of contents (TOC) -->
